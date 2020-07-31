@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ranga Reddy</h1>
 <h3 align="center">Designer. Developer.</h3>
 
-
+##### About me:
 <p align="justify">
 I'm a 20 year old software engineer who is passionate about making Mobile Apps | iOS, Flutter | Apple WWDC20 Scholar, SIH2019 Finalist | AR Enthusiastic | UI UX Designer
 
@@ -16,7 +16,9 @@ I'm a 20 year old software engineer who is passionate about making Mobile Apps |
 
 - 💬 Ask me about **Design, Mobile App Development**
 
-- <p align="left"><a ><img align="center" src="https://img.icons8.com/color/240/000000/swiftui.png" alt="swiftui" height="44" width="44" /></a><a ><img align="center" src="https://img.icons8.com/color/240/000000/flutter.png" alt="flutter" height="44" width="44" /></a><a ><img align="center" src="https://img.icons8.com/color/240/000000/android-os.png" alt="android" height="44" width="44" /></a><a ><img align="center" src="https://img.icons8.com/color/240/000000/firebase.png" alt="firebase" height="44" width="44" /></a><a ><img align="center" src="https://img.icons8.com/color/240/000000/swift.png" alt="swift" height="44" width="44" /></a><a ><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ7Ul3OpWs37dr2Msc7D2zLaWyqIcYWbG3Wzg&usqp=CAU" alt="dart" height="44" width="44" /></a><a ><img align="center" src="https://img.icons8.com/color/240/000000/javascript.png" alt="javascript" height="44" width="44" /></a><a ><img align="center" src="https://img.icons8.com/color/240/000000/python.png" alt="python" height="44" width="44" /></a><a ><img align="center" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png" alt="java" height="44" width="44" /></a>
+##### Skilled At:
+
+ <p align="center"><a ><img align="center" src="https://img.icons8.com/color/240/000000/swiftui.png" alt="swiftui" height="44" width="44" /></a><a ><img align="center" src="https://img.icons8.com/color/240/000000/flutter.png" alt="flutter" height="44" width="44" /></a><a ><img align="center" src="https://img.icons8.com/color/240/000000/firebase.png" alt="firebase" height="44" width="44" /></a><a ><img align="center" src="https://img.icons8.com/color/240/000000/swift.png" alt="swift" height="44" width="44" /></a><a ><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ7Ul3OpWs37dr2Msc7D2zLaWyqIcYWbG3Wzg&usqp=CAU" alt="dart" height="44" width="44" /></a><a ><img align="center" src="https://img.icons8.com/color/240/000000/javascript.png" alt="javascript" height="44" width="44" /></a><a ><img align="center" src="https://img.icons8.com/color/240/000000/python.png" alt="python" height="44" width="44" /></a><a ><img align="center" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png" alt="java" height="44" width="44" /></a>
 </p>
 
 
