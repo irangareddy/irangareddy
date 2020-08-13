@@ -14,9 +14,13 @@
 
 ##### Skilled At:
 
-<p align="center"><a ><img align="center" src="https://img.icons8.com/color/240/000000/swiftui.png" alt="swiftui" height="44" width="44" /></a><a ><img align="center" src="https://img.icons8.com/color/240/000000/flutter.png" alt="flutter" height="44" width="44" /></a><a ><img align="center" src="https://img.icons8.com/color/240/000000/firebase.png" alt="firebase" height="44" width="44" /></a><a ><img align="center" src="https://img.icons8.com/color/240/000000/swift.png" alt="swift" height="44" width="44" /></a><a ><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ7Ul3OpWs37dr2Msc7D2zLaWyqIcYWbG3Wzg&usqp=CAU" alt="dart" height="44" width="44" /></a><a ><img align="center" src="https://img.icons8.com/color/240/000000/javascript.png" alt="javascript" height="44" width="44" /></a><a ><img align="center" src="https://img.icons8.com/color/240/000000/python.png" alt="python" height="44" width="44" /></a><a ><img align="center" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png" alt="java" height="44" width="44" /></a>
+<p align="left"><a ><img align="center" src="https://img.icons8.com/color/240/000000/swiftui.png" alt="swiftui" height="20" width="20" /></a><a ><img align="center" src="https://img.icons8.com/color/240/000000/flutter.png" alt="flutter" height="20" width="20" /></a><a ><img align="center" src="https://img.icons8.com/color/240/000000/firebase.png" alt="firebase" height="20" width="20" /></a><a ><img align="center" src="https://img.icons8.com/color/240/000000/swift.png" alt="swift" height="20" width="20" /></a><a ><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ7Ul3OpWs37dr2Msc7D2zLaWyqIcYWbG3Wzg&usqp=CAU" alt="dart" height="20" width="20" /></a><a ><img align="center" src="https://img.icons8.com/color/240/000000/javascript.png" alt="javascript" height="20" width="20" /></a><a ><img align="center" src="https://img.icons8.com/color/240/000000/python.png" alt="python" height="20" width="20" /></a><a ><img align="center" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png" alt="java" height="20" width="20" /></a>
 </p>
 
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=irangareddy&count_private=true&show_icons=true&title_color=ffffff&icon_color=ffbe0b&text_color=D8E5F6&bg_color=5C43F2"/>
+</p>
 
 <!-- - 📫 How to reach me **hello@irangareddy.com** -->
 
@@ -38,11 +42,6 @@
 
 
 
-<!--
-**irangareddy/irangareddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- - 🔭 I’m currently working on   -->
 
-
-- 🔭 I’m currently working on  
--->
