@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ranga Reddy</h1>
-<h3 align="center">Designer. Developer.</h3>
+<h3 align="center">WWDC20 SSC Winner, Developer.</h3>
 
 ##### About me:
-<p align="center">I'm a 20 year old software engineer who is passionate about making Mobile Apps | iOS, Flutter | Apple WWDC20 Scholar, SIH2019 Finalist | AR Enthusiastic | UI UX Designer</p>
+<p align="center">I'm a 20 year old software engineer who is passionate about making Mobile Apps | iOS, Flutter | Apple WWDC20 Scholar, SIH2019 Finalist | AR Enthusiastic | Looking into UI/UX </p>
 
 ##### At Present:
 
@@ -32,9 +32,9 @@
 <a href="https://linkedin.com/in/irangareddy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="irangareddy" height="20" width="20" /></a>
 <!-- <a href="https://fb.com/irangareddy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="irangareddy" height="20" width="20" /></a> -->
 <a href="https://instagram.com/irangareddy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="irangareddy" height="20" width="20" /></a>
-<a href="https://dribbble.com/irangareddy" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/87/87400.png" alt="irangareddy" height="20" width="20" /></a>
+<!-- <a href="https://dribbble.com/irangareddy" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/87/87400.png" alt="irangareddy" height="20" width="20" /></a>
 </p>
-
+ -->
 
 
 
