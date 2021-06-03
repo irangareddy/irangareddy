@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ranga Reddy</h1>
-<h3 align="center">WWDC20 SSC Winner, Developer.</h3>
+<h3 align="center">2x Apple WWDC Scholar, MLSA | App Developer.</h3>
 
 ##### About me:
-<p align="center">I'm a 20 year old software engineer who is passionate about making Mobile Apps | iOS, Flutter | Apple WWDC20 Scholar, SIH2019 Finalist | AR Enthusiastic | Looking into UI/UX </p>
+<p align="center">I'm a 21 year old software engineer who is passionate about making Mobile Apps | iOS, Flutter | Apple WWDC20 Scholar, SIH2019 Finalist | AR Enthusiastic | Looking into UI/UX </p>
 
 ##### At Present:
 
-- 🌱 I’m currently learning [SwiftUI](https://developer.apple.com/xcode/swiftui/).
+- 🌱 I’m currently learning [SwiftUI](https://developer.apple.com/xcode/swiftui/) and [Flutter](https://flutter.dev). 
 
-- 👯 I’m looking for help to complete [FlutterDeveloper-CheckList](https://github.com/irangareddy/FlutterDeveloper-CheckList). 
+- 📄 Checkout my articles on [hashnode](https://hashnode.com/@irangareddy). 
 
 - 💬 Ask me about **Design, Mobile App Development.**
 
