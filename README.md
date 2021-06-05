@@ -22,6 +22,8 @@
  <img src="https://github-readme-stats.vercel.app/api?username=irangareddy&count_private=true&show_icons=true&title_color=ffffff&icon_color=ffbe0b&text_color=D8E5F6&bg_color=5C43F2"/>
 </p>
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=irangareddy)\
+
 <!-- - 📫 How to reach me **hello@irangareddy.com** -->
 
 ***
