@@ -18,7 +18,7 @@ jobs:
       - name: Generate README.md
         uses: teoxoy/profile-readme-stats@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.USER_TOKEN }}
           includeForks: false
 
       - name: Update README.md
