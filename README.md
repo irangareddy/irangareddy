@@ -5,7 +5,7 @@ Since then, I have:
 - Opened **29** issues
 - Submitted **170** pull requests
 - Received **24** stars across **107** personal projects
-- Contributed to **4** public repositories
+- Contributed to **3** public repositories
 
 Most used languages across my projects:
 
