@@ -1,4 +1,4 @@
-Joined GitHub **5** years ago.
+Joined GitHub **6** years ago.
 
 Since then, I have:
 - Pushed **2667** commits
