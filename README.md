@@ -4,7 +4,7 @@ Since then, I have:
 - Pushed **2779** commits
 - Opened **164** issues
 - Submitted **275** pull requests
-- Received **24** stars across **134** personal projects
+- Received **24** stars across **135** personal projects
 - Contributed to **15** public repositories
 
 Most used languages across my projects:
