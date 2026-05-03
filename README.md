@@ -14,11 +14,11 @@ I build agentic products, developer tooling, and Apple/mobile experiments across
 
 | Public Footprint | Recent Activity | Public Languages |
 | --- | --- | --- |
-| 📦 **118** public repos | 🔥 **439** commits | ![Swift](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23F05138&message=Swift%2030.4%25) |
-| ⭐ **32** stars on public projects | 🔀 **11** pull requests | ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%2030.4%25) |
-| 👥 **53** followers | 📝 **31** issues | ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%208.7%25) |
-| 🕰️ **6** years on GitHub | ⚡ **481** tracked contributions | ![Jupyter Notebook](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%208.7%25) |
-|  |  | ![Shell](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2389e051&message=Shell%204.3%25) |
+| 📦 **118** public repos | 🔥 **2,012** commits | ![Swift](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23F05138&message=Swift%2029.2%25) |
+| ⭐ **32** stars on public projects | 🔀 **314** pull requests | ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%2029.2%25) |
+| 👥 **53** followers | 📝 **383** issues | ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%208.3%25) |
+| 🕰️ **6** years on GitHub | ⚡ **2,710** tracked contributions | ![Jupyter Notebook](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%208.3%25) |
+|  |  | ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%204.2%25) |
 
 ## Featured Projects
 
