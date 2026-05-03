@@ -1,21 +1,38 @@
-Joined GitHub **6** years ago.
+# Ranga Reddy
 
-Since then, I have:
-- Pushed **3922** commits
-- Opened **411** issues
-- Submitted **425** pull requests
-- Received **27** stars across **154** personal projects
-- Contributed to **22** public repositories
+Tuning agents to build products.
 
-Most used languages across my projects:
+I build agentic products, developer tooling, and Apple/mobile experiments across Python, Swift, Flutter, and web stacks.
 
-![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B129%25)
-![C](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23555555&message=C%EF%B8%B123.6%25)
-![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B118.9%25)
-![Swift](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23F05138&message=Swift%EF%B8%B112.1%25)
-![Jupyter Notebook](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B17.3%25)
-![Dart](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300B4AB&message=Dart%EF%B8%B13.2%25)
-![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%EF%B8%B11.7%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B13.8%25)
+## Currently Building
 
-<p align="right"><sub>Generated using <a href="https://github.com/marketplace/actions/profile-readme-stats">teoxoy/profile-readme-stats</a></sub></p>
+- AI agents that help ship real product work faster
+- Swift and mobile experiments with a strong product focus
+- Practical developer tools, automations, and prototypes
+
+## Snapshot
+
+| Public Footprint | Recent Activity | Public Languages |
+| --- | --- | --- |
+| 📦 **118** public repos | 🔥 **439** commits | ![Swift](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23F05138&message=Swift%2030.4%25) |
+| ⭐ **32** stars on public projects | 🔀 **11** pull requests | ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%2030.4%25) |
+| 👥 **53** followers | 📝 **31** issues | ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%208.7%25) |
+| 🕰️ **6** years on GitHub | ⚡ **481** tracked contributions | ![Jupyter Notebook](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%208.7%25) |
+|  |  | ![Shell](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2389e051&message=Shell%204.3%25) |
+
+## Featured Projects
+
+- [tiptap-swift](https://github.com/irangareddy/tiptap-swift) · Swift · 1 stars
+  Public project from my GitHub profile.
+- [agents-elevenlabs](https://github.com/irangareddy/agents-elevenlabs) · Python
+  Public project from my GitHub profile.
+- [openclaw-essentials](https://github.com/irangareddy/openclaw-essentials) · Python
+  OpenClaw agent skills - agent builder and CLI mastery
+- [Mood-Map](https://github.com/irangareddy/Mood-Map) · Swift · 2 stars
+  Mood Preservation App
+- [roomie_tasks](https://github.com/irangareddy/roomie_tasks) · Dart · 2 stars
+  Public project from my GitHub profile.
+- [wishper-app](https://github.com/irangareddy/wishper-app) · Swift · 2 stars
+  Native macOS voice-to-text with LLM cleanup, powered by MLX. Free, open-source alternative to Wispr Flow.
+
+<sub>Generated from the GitHub API. Recent activity can include private contributions in aggregate when your token and profile settings allow it. Featured projects and languages are public-only.</sub>

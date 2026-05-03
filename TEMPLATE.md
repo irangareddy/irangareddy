@@ -1,16 +1,23 @@
-Joined GitHub **{{ ACCOUNT_AGE }}** years ago.
+# {{ NAME }}
 
-Since then, I have:
-- Pushed **{{ COMMITS }}** commits
-- Opened **{{ ISSUES }}** issues
-- Submitted **{{ PULL_REQUESTS }}** pull requests
-- Received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects
-- Contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories
+{{ BIO }}
 
-Most used languages across my projects:
+I build agentic products, developer tooling, and Apple/mobile experiments across Python, Swift, Flutter, and web stacks.
 
-{{ LANGUAGE_TEMPLATE_START }}
-![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
-{{ LANGUAGE_TEMPLATE_END }}
+## Currently Building
 
-<p align="right"><sub>Generated using <a href="https://github.com/marketplace/actions/profile-readme-stats">teoxoy/profile-readme-stats</a></sub></p>
+- AI agents that help ship real product work faster
+- Swift and mobile experiments with a strong product focus
+- Practical developer tools, automations, and prototypes
+
+## Snapshot
+
+| Public Footprint | Recent Activity | Public Languages |
+| --- | --- | --- |
+{{ SNAPSHOT_ROWS }}
+
+## Featured Projects
+
+{{ FEATURED_PROJECTS }}
+
+<sub>Generated from the GitHub API. Recent activity can include private contributions in aggregate when your token and profile settings allow it. Featured projects and languages are public-only.</sub>

@@ -1,10 +1,14 @@
 on:
   schedule:
-    - cron: "0 */12 * * *" # every 12 hours
+    - cron: "0 0 * * *"
   push:
     branches:
       - master
       - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   publish:
@@ -15,11 +19,16 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Generate README.md
-        uses: teoxoy/profile-readme-stats@v3
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          token: ${{ secrets.USER_TOKEN }}
-          includeForks: false
+          node-version: "22"
+
+      - name: Generate README.md
+        env:
+          USER_TOKEN: ${{ secrets.USER_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
+        run: node generate-readme.mjs
 
       - name: Update README.md
         run: |
@@ -27,7 +36,7 @@ jobs:
           if [[ -n "$(git status --porcelain)" ]]; then
             git config --global user.name "github-actions[bot]"
             git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add .
+            git add README.md
             git commit -m "Update README"
             git push
           fi
