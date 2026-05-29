@@ -14,10 +14,10 @@ I build agentic products, developer tooling, and Apple/mobile experiments across
 
 | Public Footprint | Recent Activity | Public Languages |
 | --- | --- | --- |
-| 📦 **119** public repos | 🔥 **2,035** commits | ![Swift](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23F05138&message=Swift%2025%25) |
+| 📦 **119** public repos | 🔥 **2,046** commits | ![Swift](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23F05138&message=Swift%2025%25) |
 | ⭐ **31** stars on public projects | 🔀 **321** pull requests | ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%2025%25) |
-| 👥 **57** followers | 📝 **385** issues | ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%2010%25) |
-| 🕰️ **6** years on GitHub | ⚡ **2,742** tracked contributions | ![Jupyter Notebook](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%2010%25) |
+| 👥 **57** followers | 📝 **386** issues | ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%2010%25) |
+| 🕰️ **6** years on GitHub | ⚡ **2,754** tracked contributions | ![Jupyter Notebook](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%2010%25) |
 |  |  | ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%205%25) |
 
 ## Featured Projects
