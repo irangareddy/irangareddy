@@ -14,11 +14,11 @@ I build agentic products, developer tooling, and Apple/mobile experiments across
 
 | Public Footprint | Recent Activity | Public Languages |
 | --- | --- | --- |
-| 📦 **120** public repos | 🔥 **2,119** commits | ![Swift](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23F05138&message=Swift%2023.8%25) |
-| ⭐ **32** stars on public projects | 🔀 **379** pull requests | ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%2023.8%25) |
-| 👥 **59** followers | 📝 **420** issues | ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%209.5%25) |
-| 🕰️ **6** years on GitHub | ⚡ **2,919** tracked contributions | ![Jupyter Notebook](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%209.5%25) |
-|  |  | ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%204.8%25) |
+| 📦 **120** public repos | 🔥 **2,130** commits | ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%2025%25) |
+| ⭐ **32** stars on public projects | 🔀 **379** pull requests | ![Swift](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23F05138&message=Swift%2020%25) |
+| 👥 **59** followers | 📝 **420** issues | ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%2010%25) |
+| 🕰️ **6** years on GitHub | ⚡ **2,930** tracked contributions | ![Jupyter Notebook](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%2010%25) |
+|  |  | ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%205%25) |
 
 ## Featured Projects
 
