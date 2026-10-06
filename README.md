@@ -2,13 +2,13 @@
 
 Tuning agents to build products.
 
-I build agentic products, developer tooling, and Apple/mobile experiments across Python, Swift, Flutter, and web stacks.
+iOS engineer building on-device AI. Two-time Apple Swift Student Challenge winner (WWDC'20 & '21), MS in Applied Data Intelligence from SJSU (2026), and co-founder of a stealth startup.
 
 ## Currently Building
 
-- AI agents that help ship real product work faster
-- Swift and mobile experiments with a strong product focus
-- Practical developer tools, automations, and prototypes
+- On-device AI on Apple platforms: Core ML, MLX, and Foundation Models ([Wishper](https://github.com/irangareddy/wishper-app) transcribes ~26x faster than real time on an M4)
+- SwiftUI apps shipped to the App Store, from first commit to release
+- Open-source Swift libraries and developer tools
 
 ## Snapshot
 
