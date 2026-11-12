@@ -14,10 +14,10 @@ Product engineer: jack of all trades, master of Apple platforms. I ship across i
 
 | Public Footprint | Recent Activity | Public Languages |
 | --- | --- | --- |
-| 📦 **125** public repos | 🔥 **6,128** commits | ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%2027.3%25) |
-| ⭐ **33** stars on public projects | 🔀 **2,670** pull requests | ![Swift](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23F05138&message=Swift%2022.7%25) |
-| 👥 **62** followers | 📝 **1,259** issues | ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%209.1%25) |
-| 🕰️ **6** years on GitHub | ⚡ **10,065** tracked contributions | ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%209.1%25) |
+| 📦 **125** public repos | 🔥 **6,223** commits | ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%2027.3%25) |
+| ⭐ **33** stars on public projects | 🔀 **2,704** pull requests | ![Swift](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23F05138&message=Swift%2022.7%25) |
+| 👥 **62** followers | 📝 **1,302** issues | ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%209.1%25) |
+| 🕰️ **6** years on GitHub | ⚡ **10,237** tracked contributions | ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%209.1%25) |
 |  |  | ![Jupyter Notebook](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%209.1%25) |
 
 ## Featured Projects
